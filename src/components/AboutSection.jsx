@@ -21,10 +21,11 @@ export const AboutSection = () => {
             </p>
 
             <p className="text-muted-foreground">
-            I thrive in collaborative, agile teams and enjoy crafting seamless 
-            user experiences while optimizing performance and functionality. 
-            From building stock trading systems to publishing ML research, 
-            I consistently aim to blend technical precision with creativity.
+Hi, I’m Khushi Goyal — part software engineer, part problem-solver, part “let’s see what happens if I press this button.” I recently wrapped up my Master’s in Computer Science at USC, where I dove deep into algorithms, machine learning, and building systems that don’t just work, but work really well.
+
+When I’m not turning coffee into code, you’ll find me experimenting with side projects (sometimes they work… sometimes they break spectacularly), hunting for the perfect user interface, or trying to optimize everyday life like it’s a hackathon. I’ve built everything from fantasy baseball websites to real-time stock trading platforms, and I love collaborating to make technology more intuitive, accessible, and impactful.
+
+Outside of tech, I’m equally passionate about exploring new places, binge-watching romcoms, dabbling in photography, and perfecting my pasta recipes. I believe good software should feel like a good story — engaging, seamless, and worth coming back to.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
